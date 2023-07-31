@@ -9,3 +9,8 @@ __pycache__/
 # Ignore pipenv specific files
 Pipfile
 Pipfile.lock
+timesheetvenv/Lib/site-packages/_distutils_hack/__init__.py
+timesheetvenv/Lib/site-packages/_distutils_hack/__init__.py
+timesheetvenv/Lib/site-packages/_distutils_hack/__init__.py
+timesheetvenv/Lib/site-packages/_distutils_hack/override.py
+timesheetvenv/Lib/site-packages/distutils-precedence.pth
