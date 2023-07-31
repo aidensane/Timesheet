@@ -9,3 +9,5 @@ __pycache__/
 # Ignore pipenv specific files
 Pipfile
 Pipfile.lock
+
+.vscode/
