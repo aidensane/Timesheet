@@ -1,5 +1,5 @@
 # Ignore the virtual environment directory
-<timesheetvenv>/
+timesheetvenv/
 
 # Ignore platform-specific virtual environment files
 *.pyc
@@ -9,8 +9,3 @@ __pycache__/
 # Ignore pipenv specific files
 Pipfile
 Pipfile.lock
-timesheetvenv/Lib/site-packages/_distutils_hack/__init__.py
-timesheetvenv/Lib/site-packages/_distutils_hack/__init__.py
-timesheetvenv/Lib/site-packages/_distutils_hack/__init__.py
-timesheetvenv/Lib/site-packages/_distutils_hack/override.py
-timesheetvenv/Lib/site-packages/distutils-precedence.pth
