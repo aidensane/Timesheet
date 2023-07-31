@@ -1,0 +1,11 @@
+# Ignore the virtual environment directory
+<timesheetvenv>/
+
+# Ignore platform-specific virtual environment files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore pipenv specific files
+Pipfile
+Pipfile.lock
